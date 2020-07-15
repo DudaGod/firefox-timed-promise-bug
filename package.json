@@ -1,0 +1,22 @@
+{
+  "name": "firefox-timed-promise-bug",
+  "version": "1.0.0",
+  "description": "In firefox@67 or higher after new page is open in new tab and add some pause then consecutive clicks on other elements does not make affect on web view.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DudaGod/firefox-timed-promise-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DudaGod/firefox-timed-promise-bug/issues"
+  },
+  "homepage": "https://github.com/DudaGod/firefox-timed-promise-bug#readme",
+  "dependencies": {
+    "webdriverio": "^4.14.4"
+  }
+}
